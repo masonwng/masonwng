@@ -5,7 +5,7 @@
 [website](https://masonwang.dev) • [linkedin](https://www.linkedin.com/in/mason-wang-926026353/)
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-007396?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-4D7289?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
