@@ -12,8 +12,6 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 <!--
 **masonwng/masonwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
